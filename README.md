@@ -18,15 +18,11 @@ Skills:
 
 ## Formação
 
-Engenharia de Computação na Univali.
+Ciência da Computação na Univali.
 <br>Início: 2023
 <br>Término: 2028
 
 Desenvolvimento Java
-<br>Início: 2022
-<br>Término: 2023
-
-Analista de Testes de Software
 <br>Início: 2022
 <br>Término: 2023
 
@@ -41,5 +37,5 @@ Analista de Testes de Software
 
 
 ### Linguagens conhecidas
-* Java <br>
-* C++ <br>
+* Java Pleno <br>
+* C++ Pleno <br>
