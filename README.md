@@ -37,5 +37,5 @@ Desenvolvimento Java
 
 
 ### Linguagens conhecidas
-* Java Pleno <br>
-* C++ Pleno <br>
+* Java <br>
+* C++ <br>
