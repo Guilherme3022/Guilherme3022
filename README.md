@@ -38,3 +38,4 @@ Java Development
 ### Programming Languages
 * Java <br>
 * C++ <br>
+* SQL <br>
