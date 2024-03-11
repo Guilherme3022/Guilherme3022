@@ -1,7 +1,7 @@
 # Guilherme Baptista da Silva
 
 Location: Itajaí/SC, Brazil <br>
-Contact: (47) 9 9722-5195 <br>
+Contact: +55 (47) 9 9722-5195 <br>
 Email: gui.bap22@gmail.com
 
 
