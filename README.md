@@ -1,6 +1,5 @@
 # Guilherme Baptista da Silva - Software Developer
 
-ELEVATOR PITCH
 Hello, I'm Guilherme Baptista da Silva, a software developer passionate about object-oriented programming. My goal is to achieve a stable life while doing what I love. I'm an outgoing, attentive, charismatic, and focused individual, adept at handling people and always striving to improve. Outside of work, I love animals, video games, movies, and series, but my favorite hobby is listening to music. I'm always seeking challenges that allow me to grow professionally and personally, and I'm ready to tackle any project with enthusiasm and dedication.
 
 Location: Itajaí/SC, Brazil <br>
@@ -8,7 +7,7 @@ Contact: +55 (47) 9 9722-5195 <br>
 Email: gui.bap22@gmail.com
 
 
-Skills:
+## Skills:
 - Commitment to customer and employee safety
 - Helpful when assisting customers and employees
 - Administrative support
