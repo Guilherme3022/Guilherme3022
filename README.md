@@ -43,6 +43,7 @@ I enjoy understanding how systems work beyond just writing code — from designi
 * PostgreSQL
 * SQL
 * JPA / Hibernate
+* MongoDB
 
 ### DevOps & Tools
 
