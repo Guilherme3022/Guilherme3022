@@ -1,63 +1,120 @@
-# Guilherme Baptista da Silva - Software Developer
+# Hi, I'm Guilherme Baptista 👋
 
-Hello, I'm Guilherme Baptista da Silva, a software developer passionate about object-oriented programming. My goal is to achieve a stable life while doing what I love. I'm an outgoing, attentive, charismatic, and focused individual, adept at handling people and always striving to improve. Outside of work, I love animals, video games, movies, and series, but my favorite hobby is listening to music. I'm always seeking challenges that allow me to grow professionally and personally, and I'm ready to tackle any project with enthusiasm and dedication.
+### Software Engineer | Backend-focused | Java & Spring
 
-Location: Itajaí/SC, Brazil <br>
-Contact: +55 (47) 9 9722-5195 <br>
-Email: gui.bap22@gmail.com
+I'm a Software Engineer with **6 years of professional experience**, primarily focused on backend development, software architecture, APIs, integrations, and building maintainable production systems.
 
+My main stack is **Java and Spring Boot**, and throughout my career I've worked with legacy modernization, REST APIs, databases, integrations, and architectural patterns such as **Clean Architecture, Hexagonal Architecture, and DDD**.
 
-## Skills:
-- Commitment to customer and employee safety
-- Helpful when assisting customers and employees
-- Administrative support
-- Strong employee relationships
-- Effective verbal communication for employee instructions
-- Excellent communication with customers and employees
-- Strong negotiation and persuasion skills
-- Interpersonal relationship and communication ease
-- Effective time management and organization
-- Ability to interpret graphs and reports
-- Focus on performance
-- Providing positive feedback
-- Setting clear objectives
-- Confidence in decision-making
-- Supporting team growth
-- Adaptive and open to embracing new processes and quick learning
-- Excellent communication skills
-- Excellence in managing multiple priorities and meeting critical deadlines.
-- Proficient in Java, C++, and currently expanding expertise in Python and C#.
-- Learning HTML, CSS, and JavaScript to enhance web development skills.
-- Experienced in MySQL for database management.
-- Skilled in version control using GitHub.
-- Strong problem-solving abilities
-- Effective teamwork and collaboration skills.
-- Committed to continuous learning and staying updated with industry trends.
-- Capable of clear and concise communication, both technical and non-technical.
-- Familiar with writing automated tests and debugging code.
-- Basic understanding of information security principles and secure software development practices
+I'm currently working as a **Full-Stack Developer**, while keeping my main focus on backend engineering and software architecture. I'm also continuously exploring new technologies, including **TypeScript, Python, C#, Go, Docker, AWS, and AI-assisted development**.
 
-## Education
+I enjoy understanding how systems work beyond just writing code — from designing architecture and defining boundaries to improving maintainability, scalability, testing, and developer experience.
 
-Computer Science at Univali.
-<br>Start: 2023
-<br>End: 2028
+---
 
-Java Development
-<br>Start: 2022
-<br>End: 2023
+## 🛠️ Tech Stack
 
-## Knowledge
+### Backend
 
-### General
-* Programming Logic <br>
-* Intermediate English
+* **Java**
+* **Spring Boot**
+* Spring Data JPA / Hibernate
+* REST APIs
+* C#
+* C++
+* Python
+* TypeScript
 
-### Operating Systems
-* Windows
+### Architecture & Engineering
 
-### Programming Languages
-* Java <br>
-* C++ <br>
-* SQL <br>
-* HTML <br>
+* Clean Architecture
+* Hexagonal Architecture
+* Domain-Driven Design (DDD)
+* Object-Oriented Programming
+* SOLID
+* Design Patterns
+* API Design
+* Legacy System Modernization
+* Automated Testing
+
+### Databases
+
+* MySQL
+* PostgreSQL
+* SQL
+* JPA / Hibernate
+
+### DevOps & Tools
+
+* Git / GitHub
+* Docker
+* CI/CD
+* Bitbucket Pipelines
+* AWS
+* Maven
+
+### Currently Exploring
+
+* Go
+* Kubernetes
+* Kafka
+* RabbitMQ
+* Distributed Systems
+* Cloud Architecture
+* AI / Machine Learning
+* AI-assisted Software Development
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer / Backend Developer
+
+I've worked on production systems involving:
+
+* Backend services and RESTful APIs
+* System integrations and webhooks
+* Database design and data access
+* Legacy system modernization
+* Multi-tenant architectures
+* Authentication and authorization
+* Internal platforms and business systems
+* Automated testing and debugging
+* CI/CD and deployment workflows
+* Architectural improvements and codebase modularization
+
+I'm particularly interested in **backend engineering, distributed systems, system design, and software architecture**.
+
+---
+
+## 🚀 What I'm Currently Focused On
+
+I'm interested in the evolution of software engineering with AI.
+
+I believe the role of a developer is increasingly moving beyond simply writing code. As AI becomes better at implementation, engineers need to become stronger at **understanding problems, designing systems, defining architecture, reviewing code, and making technical decisions**.
+
+That's where I'm investing most of my learning today.
+
+---
+
+## 📚 Education
+
+🎓 **B.Sc. in Computer Science — Anhembi Morumbi**
+2023 – 2028
+
+---
+
+## 🌎 Languages
+
+🇧🇷 Portuguese — Native
+🇺🇸 English — Intermediate / Upper-Intermediate
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/guilhermebaptista01) · [Email](mailto:gui.bap22@gmail.com)
+
+---
+
+⭐ Always learning, building, and looking for interesting engineering problems to solve.
